@@ -1,5 +1,5 @@
 package ch.zli.hoeshi.crm.model;
-
+/**/
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
